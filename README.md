@@ -1,4 +1,6 @@
-## EX.NO.7 - JKFLIPFLOP-USING-IF-ELSE
+## EX-7 JKFLIPFLOP-USING-IF-ELSE
+
+**DATE : 26.04.2024**
 
 **AIM:** 
 
@@ -92,5 +94,6 @@ endmodule
 
 
 **RESULTS:**
+
 Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
 
